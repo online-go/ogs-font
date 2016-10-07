@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="coordinates.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1039"
+     inkscape:window-width="967"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="295.05361"
+     inkscape:cy="546.7479"
+     inkscape:window-x="1278"
+     inkscape:window-y="511"
+     inkscape:current-layer="svg5496"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="200"
+       id="guide5596" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3931" />
+    <font
+       horiz-adv-x="1024"
+       id="font3933"
+       inkscape:label="font 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face3935"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph3937" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph3939"
+         unicode="a"
+         d="m 250,1024 0,-62.5 31.25,0 31.25,0 0,62.5 -62.5,0 z m 31.25,-62.5 C 160.4375,961.5 62.5,863.5625 62.5,742.75 62.5,621.9375 160.4375,524 281.25,524 402.0625,524 500,621.9375 500,742.75 500,863.5625 402.0625,961.5 281.25,961.5 z M 500,742.75 l 0,-31.25 187.5,0 0,-187.5 31.25,0 31.25,0 0,187.5 250,0 0,62.5 -250,0 0,250 -62.5,0 0,-250 -187.5,0 0,-31.25 z M 718.75,524 C 598.3063,524 500,425.6938 500,305.25 500,184.8062 598.3063,86.5 718.75,86.5 839.1937,86.5 937.5,184.8062 937.5,305.25 937.5,425.6938 839.1937,524 718.75,524 z m 218.75,-218.75 0,-31.25 62.5,0 0,62.5 -62.5,0 0,-31.25 z M 718.75,86.5 l -31.25,0 0,-62.5 62.5,0 0,62.5 -31.25,0 z M 500,305.25 l 0,31.25 -187.5,0 0,187.5 -31.25,0 -31.25,0 0,-187.5 -250,0 0,-62.5 250,0 0,-250 62.5,0 0,250 187.5,0 0,31.25 z m -437.5,437.5 0,31.25 -62.5,0 0,-62.5 62.5,0 0,31.25 z M 718.75,461.5 C 805.4125,461.5 875,391.9125 875,305.25 875,218.5875 805.4125,149 718.75,149 632.0875,149 562.5,218.5875 562.5,305.25 c 0,86.6625 69.5875,156.25 156.25,156.25 z" />
+      <glyph
+         glyph-name="glyph 2"
+         id="glyph3941"
+         unicode="b" />
+      <glyph
+         glyph-name="glyph 3"
+         id="glyph3943"
+         unicode="c" />
+      <glyph
+         glyph-name="glyph 4"
+         id="glyph3945"
+         unicode="d" />
+      <glyph
+         glyph-name="glyph 5"
+         id="glyph3947"
+         unicode="e" />
+      <glyph
+         glyph-name="glyph 6"
+         id="glyph3949"
+         unicode="f" />
+      <glyph
+         glyph-name="glyph 7"
+         id="glyph3951"
+         unicode="g" />
+      <glyph
+         glyph-name="glyph 8"
+         id="glyph3953"
+         unicode="h" />
+      <glyph
+         glyph-name="glyph 9"
+         id="glyph3955"
+         unicode="i" />
+      <glyph
+         glyph-name="glyph 10"
+         id="glyph3957"
+         unicode="j" />
+      <glyph
+         glyph-name="glyph 11"
+         id="glyph3959"
+         unicode="k" />
+      <glyph
+         glyph-name="glyph 12"
+         id="glyph3961"
+         unicode="l" />
+      <glyph
+         glyph-name="glyph 13"
+         id="glyph3963"
+         unicode="m" />
+      <glyph
+         glyph-name="glyph 14"
+         id="glyph3965"
+         unicode="n" />
+      <glyph
+         glyph-name="glyph 15"
+         id="glyph3967"
+         unicode="o" />
+      <glyph
+         glyph-name="glyph 16"
+         id="glyph3969"
+         unicode="p" />
+      <glyph
+         glyph-name="glyph 17"
+         id="glyph3971"
+         unicode="q" />
+      <glyph
+         glyph-name="glyph 18"
+         id="glyph3973"
+         unicode="r" />
+      <glyph
+         glyph-name="glyph 19"
+         id="glyph3975"
+         unicode="s" />
+      <glyph
+         glyph-name="glyph 20"
+         id="glyph3977"
+         unicode="t" />
+      <glyph
+         glyph-name="glyph 21"
+         id="glyph3979"
+         unicode="u" />
+      <glyph
+         glyph-name="glyph 22"
+         id="glyph3981"
+         unicode="v" />
+      <glyph
+         glyph-name="glyph 23"
+         id="glyph3983"
+         unicode="w" />
+      <glyph
+         glyph-name="glyph 24"
+         id="glyph3985"
+         unicode="x" />
+      <glyph
+         glyph-name="glyph 25"
+         id="glyph3987"
+         unicode="y" />
+      <glyph
+         glyph-name="glyph 26"
+         id="glyph3989"
+         unicode="z" />
+      <glyph
+         glyph-name="glyph 27"
+         id="glyph3991"
+         unicode="A" />
+      <glyph
+         glyph-name="glyph 28"
+         id="glyph3993"
+         unicode="B" />
+      <glyph
+         glyph-name="glyph 29"
+         id="glyph3995"
+         unicode="C" />
+      <glyph
+         glyph-name="glyph 30"
+         id="glyph3997"
+         unicode="D" />
+      <glyph
+         glyph-name="glyph 31"
+         id="glyph3999"
+         unicode="E" />
+      <glyph
+         glyph-name="glyph 32"
+         id="glyph4001"
+         unicode="F" />
+      <glyph
+         glyph-name="glyph 33"
+         id="glyph4003"
+         unicode="G" />
+      <glyph
+         glyph-name="glyph 34"
+         id="glyph4005"
+         unicode="H" />
+      <glyph
+         glyph-name="glyph 35"
+         id="glyph4007"
+         unicode="I" />
+      <glyph
+         glyph-name="glyph 36"
+         id="glyph4009"
+         unicode="J" />
+      <glyph
+         glyph-name="glyph 37"
+         id="glyph4011"
+         unicode="K" />
+      <glyph
+         glyph-name="glyph 38"
+         id="glyph4013"
+         unicode="L" />
+      <glyph
+         glyph-name="glyph 39"
+         id="glyph4015"
+         unicode="M" />
+      <glyph
+         glyph-name="glyph 40"
+         id="glyph4017"
+         unicode="N" />
+      <glyph
+         glyph-name="glyph 41"
+         id="glyph4019"
+         unicode="O" />
+      <glyph
+         glyph-name="glyph 42"
+         id="glyph4021"
+         unicode="P" />
+      <glyph
+         glyph-name="glyph 43"
+         id="glyph4023"
+         unicode="Q" />
+      <glyph
+         glyph-name="glyph 44"
+         id="glyph4025"
+         unicode="R" />
+      <glyph
+         glyph-name="glyph 45"
+         id="glyph4027"
+         unicode="S" />
+      <glyph
+         glyph-name="glyph 46"
+         id="glyph4029"
+         unicode="T" />
+      <glyph
+         glyph-name="glyph 47"
+         id="glyph4031"
+         unicode="U" />
+      <glyph
+         glyph-name="glyph 48"
+         id="glyph4033"
+         unicode="V" />
+      <glyph
+         glyph-name="glyph 49"
+         id="glyph4035"
+         unicode="W" />
+      <glyph
+         glyph-name="glyph 50"
+         id="glyph4037"
+         unicode="X" />
+      <glyph
+         glyph-name="glyph 51"
+         id="glyph4039"
+         unicode="Y" />
+      <glyph
+         glyph-name="glyph 52"
+         id="glyph4041"
+         unicode="Z" />
+      <glyph
+         glyph-name="glyph 53"
+         id="glyph4043"
+         unicode="0" />
+      <glyph
+         glyph-name="glyph 54"
+         id="glyph4045"
+         unicode="1" />
+      <glyph
+         glyph-name="glyph 55"
+         id="glyph4047"
+         unicode="2" />
+      <glyph
+         glyph-name="glyph 56"
+         id="glyph4049"
+         unicode="3" />
+      <glyph
+         glyph-name="glyph 57"
+         id="glyph4051"
+         unicode="4" />
+      <glyph
+         glyph-name="glyph 58"
+         id="glyph4053"
+         unicode="5" />
+      <glyph
+         glyph-name="glyph 59"
+         id="glyph4055"
+         unicode="6" />
+      <glyph
+         glyph-name="glyph 60"
+         id="glyph4057"
+         unicode="7" />
+      <glyph
+         glyph-name="glyph 61"
+         id="glyph4059"
+         unicode="8" />
+      <glyph
+         glyph-name="glyph 62"
+         id="glyph4061"
+         unicode="9" />
+    </font>
+  </defs>
+  <g
+     id="layer1" />
+  <g
+     transform="scale(1.0629463,0.94078129)"
+     style="font-size:504.12414551px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="text3056">
+    <path
+       d="m 799.8939,380.57162 -51.93857,0 -35.93854,-102.15406 -158.52342,0 -35.93853,102.15406 -49.47703,0 133.41567,-366.523849 64.98475,0 L 799.8939,380.57162 M 697.00137,236.57132 632.75508,56.632477 568.26264,236.57132 l 128.73873,0"
+       style=""
+       id="path3068" />
+  </g>
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:37.80514908;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="m 653.03125,653.03125 0,18.90625 0,309.15625 0,18.90625 18.90625,0 3.9375,0 18.875,0 0,-18.90625 0,-309.15625 0,-18.90625 -18.875,0 -3.9375,0 -18.90625,0 z"
+     id="rect3060"
+     inkscape:connector-curvature="0" />
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:38.11930084;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="m 653.03125,653.03125 0,19.0625 0,3.625 0,19.03125 19.0625,0 308.84375,0 19.0625,0 0,-19.03125 0,-3.625 0,-19.0625 -19.0625,0 -308.84375,0 -19.0625,0 z"
+     id="rect3062"
+     inkscape:connector-curvature="0" />
+  <g
+     style="font-size:524.65924072px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
+     id="text3064">
+    <path
+       d="m 383.06875,660.43778 c -3e-4,33.30374 -3.84301,63.5331 -11.52816,90.68817 -7.51493,27.15531 -18.95768,50.29699 -34.32829,69.42512 -15.5419,19.46981 -35.01165,34.4991 -58.40933,45.0879 -23.39806,10.58883 -50.89482,15.88324 -82.49036,15.88324 -8.88106,0 -17.24964,-0.51237 -25.10577,-1.53708 -7.8563,-0.85395 -14.85858,-2.30564 -21.00686,-4.35509 l 0,-48.93062 2.56181,0 c 4.95276,2.56186 11.95504,5.03828 21.00686,7.42926 9.05164,2.22027 19.1281,3.33039 30.22939,3.33035 37.74389,4e-5 67.2901,-11.27192 88.63872,-33.81592 21.519,-22.71465 33.98648,-53.96873 37.40247,-93.76235 -15.88347,9.56426 -30.82736,16.39575 -44.83172,20.4945 -14.00477,4.09904 -29.29023,6.14849 -45.85645,6.14835 -15.71259,1.4e-4 -29.97333,-1.53694 -42.78227,-4.61126 -12.63838,-3.07403 -25.36204,-9.05159 -38.17101,-17.93269 -15.02936,-10.41786 -26.38672,-23.65388 -34.07211,-39.70809 -7.51468,-16.05381 -11.27201,-35.26739 -11.27198,-57.64079 -3e-5,-38.93926 12.80902,-70.62031 38.42719,-95.04325 25.61804,-24.42224 56.87212,-36.63353 93.76235,-36.63392 18.44487,3.9e-4 35.5236,2.90377 51.23625,8.71016 15.71223,5.63636 29.46061,14.17573 41.24519,25.61813 14.51667,14.1757 25.70324,32.44995 33.55974,54.82279 7.85593,22.20265 11.78404,50.98032 11.78434,86.33309 m -51.74862,-11.0158 c -2.4e-4,-26.47181 -2.73284,-47.73483 -8.1978,-63.78913 -5.46543,-16.05373 -12.98007,-28.5212 -22.54395,-37.40247 -8.02722,-7.6851 -16.65198,-13.1503 -25.87431,-16.3956 -9.2227,-3.4154 -19.21376,-5.12328 -29.9732,-5.12363 -24.59354,3.5e-4 -44.0633,7.68578 -58.40933,23.05632 -14.17546,15.37118 -21.26313,36.97578 -21.26305,64.81386 -8e-5,16.22506 2.30555,29.46108 6.91689,39.7081 4.61118,10.24746 12.382,19.21379 23.3125,26.89903 7.68532,5.2946 16.13929,8.88114 25.36195,10.75961 9.22238,1.70806 19.46962,2.562 30.74175,2.56182 13.32124,1.8e-4 26.81344,-1.79309 40.47664,-5.37981 13.66278,-3.58635 26.47183,-8.79536 38.42719,-15.62706 0.17054,-3.58633 0.34133,-7.08747 0.51236,-10.50343 0.34133,-3.58632 0.51212,-8.11219 0.51236,-13.57761"
+       style=""
+       id="path3071" />
+  </g>
+</svg>
