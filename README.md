@@ -5,9 +5,13 @@ Contains various icons we use use throughout the OGS interface
 ## Build dependencies
 
 https://github.com/fontforge/fontforge
+
 https://www.freetype.org/ttfautohint/
+
 https://github.com/FontCustom/fontcustom
+
 http://people.mozilla.com/~jkew/woff/woff-code-latest.zip
+
 http://www.w3.org/Tools/eot-utils/eot-utilities-1.1.tar.gz
 
 
