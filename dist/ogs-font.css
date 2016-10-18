@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "ogs-font";
-  src: url("./ogs-font_2207444bbeaf6dbb9749bea1a4ad8759.eot");
-  src: url("./ogs-font_2207444bbeaf6dbb9749bea1a4ad8759.eot?#iefix") format("embedded-opentype"),
-       url("./ogs-font_2207444bbeaf6dbb9749bea1a4ad8759.woff") format("woff"),
-       url("./ogs-font_2207444bbeaf6dbb9749bea1a4ad8759.ttf") format("truetype"),
-       url("./ogs-font_2207444bbeaf6dbb9749bea1a4ad8759.svg#ogs-font") format("svg");
+  src: url("./ogs-font_4f43e6abeba8ae776846809fd2af0b94.eot");
+  src: url("./ogs-font_4f43e6abeba8ae776846809fd2af0b94.eot?#iefix") format("embedded-opentype"),
+       url("./ogs-font_4f43e6abeba8ae776846809fd2af0b94.woff") format("woff"),
+       url("./ogs-font_4f43e6abeba8ae776846809fd2af0b94.ttf") format("truetype"),
+       url("./ogs-font_4f43e6abeba8ae776846809fd2af0b94.svg#ogs-font") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "ogs-font";
-    src: url("./ogs-font_2207444bbeaf6dbb9749bea1a4ad8759.svg#ogs-font") format("svg");
+    src: url("./ogs-font_4f43e6abeba8ae776846809fd2af0b94.svg#ogs-font") format("svg");
   }
 }
 
@@ -32,7 +32,8 @@
 .icon-label-triangle:before,
 .icon-label-x:before,
 .icon-move-number:before,
-.icon-turtle:before {
+.icon-turtle:before,
+.icon-zen-mode:before {
   display: inline-block;
   font-family: "ogs-font";
   font-style: normal;
@@ -57,3 +58,4 @@
 .icon-label-x:before { content: "\f107"; }
 .icon-move-number:before { content: "\f108"; }
 .icon-turtle:before { content: "\f109"; }
+.icon-zen-mode:before { content: "\f10a"; }
